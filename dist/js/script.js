@@ -4,7 +4,7 @@ function steganography() {
 }
 
 function back() {
-  let url = "index.html";
+  let url = "./dist/index.html";
   window.open(url, "_self");
 }
 
