@@ -1,5 +1,5 @@
 function steganography() {
-  let url = "steganography.html";
+  let url = "./dist/steganography.html";
   window.open(url, "_self");
 }
 
